@@ -14,6 +14,7 @@ The goal is to help improve service delivery by forecasting demand and allocatin
 
 ## 📂 Project Structure
 prediction/
+
 📁 .idea/                  → IDE configuration files  
 📁 data/                   → Dataset(s) used for training/testing  
 📁 demand/                 → Django app folder  
