@@ -13,7 +13,7 @@ The goal is to help improve service delivery by forecasting demand and allocatin
 
 
 ## 📂 Project Structure
-demand-prediction/
+prediction/
 📁 .idea/                  → IDE configuration files  
 📁 data/                   → Dataset(s) used for training/testing  
 📁 demand/                 → Django app folder  
@@ -33,8 +33,8 @@ demand-prediction/
 ## ⚙️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/demand-prediction.git
-   cd demand-prediction
+   git clone https://github.com/angelamawia/predict-demand.git
+  
 🧠 Model
 
 Built using Scikit-learn
