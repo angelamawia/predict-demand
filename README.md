@@ -8,7 +8,7 @@
 > **📄 Published Paper:** [Read on ResearchGate](https://doi.org/10.13140/RG.2.2.13036.07042)  
 > **🏛️ Deployed At:** Huduma Center Makadara
 
-This project predicts the demand for e-government services at **Makadara Huduma Center ** using machine learning.  
+This project predicts the demand for e-government services at Makadara Huduma Center using machine learning.  
 
 ## 📊 Problem Statement
 
@@ -27,32 +27,6 @@ This project uses historical booking data (2020-2023) from  Makadara Huduma Cent
 - Exploratory Data Analysis   
 - Machine Learning model for demand prediction  
 - Django web application for deployment
-
-
-## 📂 Project Structure
-predict-demand/
-├── 📁 data/                    # Datasets (training & testing)
-├── 📁 demand/                  # Django app folder
-│   ├── views.py               # Application logic
-│   ├── models.py              # Database models
-│   └── urls.py                # URL routing
-├── 📁 prediction/              # ML model code
-│   ├── settings.py            # Django settings
-│   └── wsgi.py                # WSGI config
-├── 📁 templates/               # HTML templates
-│   ├── index.html             # Home page
-│   ├── predict.html           # Prediction form
-│   └── results.html           # Results display
-├── 📁 static/                  # CSS, JS, images
-├── 📁 models/                  # Saved ML models
-│   ├── rf_regressor_model.pkl
-│   └── encoder.joblib
-├── 📄 db.sqlite3              # SQLite database
-├── 📄 manage.py               # Django management
-├── 📄 model_training.py       # Model training script
-├── 📄 requirements.txt        # Dependencies
-└── 📄 README.md               # This file
-
 ---
 ## 🛠️ Tech Stack
 
@@ -156,12 +130,6 @@ Contributions are welcome! Here's how:
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-**Areas needing help:**
-- Frontend UI/UX improvements
-- Additional visualization types
-- Testing coverage
-- Documentation
 
 ## 👩‍💻 Author
 
